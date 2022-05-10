@@ -20,19 +20,22 @@
 
    <!-- Show About device instead of Android Version -->
     <string name="Altho_about_device">About Device</string>
+
+   <!-- About Phone screen, Device Codename -->
+   <string name="about_device_name">Device</string>
   
-    <!-- Notification log -->
-    <string name="notification_log_summary">Show notifications history log</string>
+   <!-- Notification log -->
+   <string name="notification_log_summary">Show notifications history log</string>
 
-    <!-- Battery temperature -->
-    <string name="battery_temp">Battery temperature</string>
+   <!-- Battery temperature -->
+   <string name="battery_temp">Battery temperature</string>
 
-    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] --> 
-    <string name="duration_less_than_one_minute">Less than 1 Minute</string> 
+   <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] --> 
+   <string name="duration_less_than_one_minute">Less than 1 Minute</string> 
 
-    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
-    <string name="screen_time_summary_usage_today">%1$s today</string>
+   <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+   <string name="screen_time_summary_usage_today">%1$s today</string>
 
-    <!-- App details: open play store link if app is user installed -->
-    <string name="app_play_store">Google Play</string>
+   <!-- App details: open play store link if app is user installed -->
+   <string name="app_play_store">Google Play</string>
 </resources>
