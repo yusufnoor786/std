@@ -20,3 +20,7 @@
 
    <!-- Show About device instead of Android Version -->
     <string name="Altho_about_device">About Device</string>
+  
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
+</resources>
