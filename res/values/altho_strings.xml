@@ -15,3 +15,5 @@
    <!-- Altho Version Preference -->
    <string name="Altho_version">"Altho version"</string>
 
+   <!-- Altho Maintainer -->
+   <string name="Altho_maintainer">Device Maintainer</string>

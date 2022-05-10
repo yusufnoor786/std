@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021 Project Elixir
+ * Copyright (C) 2021 Project Altho
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,12 +25,12 @@ import androidx.preference.Preference;
 import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
-public class AlthoVersionPreferenceController extends BasePreferenceController {
+public class AlthoMaintainerPreferenceController extends BasePreferenceController {
 
-    private static final String TAG = "AlthoVersionPreferenceController";
-    private static final String ROM_PROPERTY = "org.altho.version";
+    private static final String TAG = "AlthoMaintainerPreferenceController";
+    private static final String ROM_PROPERTY = "ro.altho.maintainer";
 
-    public AlthoVersionPreferenceController(Context context, String key) {
+    public AlthoMaintainerPreferenceController(Context context, String key) {
         super(context, key);
     }
 
