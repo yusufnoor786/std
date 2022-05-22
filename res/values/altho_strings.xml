@@ -18,6 +18,10 @@
    <string name="selinux_status_permissive">Permissive</string>
    <string name="selinux_status_enforcing">Enforcing</string>
 
+   <!-- Top level ALTRUIST --> 
+   <string name="altho_settings_title">ALTRUIST</string>
+   <string name="altho_settings_summary">Altho Hub</string>
+
    <!-- Altho Version Preference -->
    <string name="Altho_version">"Altho version"</string>
 
