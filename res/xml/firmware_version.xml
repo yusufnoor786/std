@@ -21,7 +21,7 @@
     android:title="@string/Altho_about_device"
     settings:keywords="@string/keywords_android_version">
 
-    <!-- Elixir logo -->
+    <!-- Altho logo -->
     <com.android.settingslib.widget.LayoutPreference
         android:key="altho_logo"
         android:layout="@layout/altho_logo"
