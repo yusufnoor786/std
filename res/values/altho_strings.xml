@@ -51,4 +51,11 @@
 
    <!-- String for removal of sensitive info on about, depending on tap -->
    <string name="device_info_protected_single_press">Tap to show info</string>
+
+   <!-- Homepage -->
+    <string name="altho_homepage_connectivity">Connectivity</string>
+    <string name="altho_homepage_device">Device</string>
+    <string name="altho_homepage_security">Security</string>
+    <string name="altho_homepage_customization">Customizations</string>
+    <string name="altho_homepage_system">System</string>
 </resources>

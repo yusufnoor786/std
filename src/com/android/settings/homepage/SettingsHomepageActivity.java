@@ -235,7 +235,7 @@ public class SettingsHomepageActivity extends FragmentActivity implements
     }
 
     private void initAvatarView() {
-        final ImageView avatarView = findViewById(R.id.account_avatar);
+        final ImageView avatarView = findViewById(R.id.account_avatar_mirror);
         final ImageView avatarTwoPaneView = findViewById(R.id.account_avatar_two_pane_version);
         if (AvatarViewMixin.isAvatarSupported(this)) {
             avatarView.setVisibility(View.VISIBLE);
