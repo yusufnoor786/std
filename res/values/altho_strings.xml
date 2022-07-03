@@ -58,7 +58,6 @@
     <string name="altho_homepage_security">Security</string>
     <string name="altho_homepage_customization">Customizations</string>
     <string name="altho_homepage_system">System</string>
-</resources>
 
     <!-- Game Space -->
     <string name="game_space_title">Game Space</string>
