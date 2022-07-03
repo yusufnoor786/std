@@ -1221,7 +1221,7 @@ public final class Utils extends com.android.settingslib.Utils {
      */
     @ColorInt
     public static int getHomepageIconColor(Context context) {
-        return ContextCompat.getColor(context, R.color.altho_ic_homepage_colo);
+        return ContextCompat.getColor(context, R.color.altho_ic_homepage_color);
     }
 
     /**
