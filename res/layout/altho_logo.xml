@@ -23,9 +23,9 @@
     android:selectable="false">
 
     <ImageView
-        android:src="@drawable/altho_ic_logo"
+        android:src="@drawable/altho_logo"
         android:adjustViewBounds="true"
-        android:layout_height="720dp"
-        android:layout_width="720dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
 	android:scaleType="centerInside"/> 
 </LinearLayout>
