@@ -189,6 +189,20 @@ public class TopLevelSettings extends DashboardFragment implements
             if ("top_level_wallpaper".equals(preference.getKey())){
                 preference.setLayoutResource(R.layout.altho_card_accent_middle);
             }
+            // Digital Wellbeing Layout
+            if ("dashboard_tile_pref_com.google.android.apps.wellbeing.home.TopLevelSettingsActivity".equals(preference.getKey())){
+                preference.setLayoutResource(R.layout.altho_card_accent_middle);
+            }
+            if ("top_level_wellbeing".equals(preference.getKey())){
+                preference.setLayoutResource(R.layout.altho_card_accent_middle);
+            }
+            // Google layout
+            if ("dashboard_tile_pref_com.google.android.gms.app.settings.GoogleSettingsIALink".equals(preference.getKey())){
+                preference.setLayoutResource(R.layout.altho_card_accent_middle);
+            }
+            if ("top_level_google".equals(preference.getKey())){
+                preference.setLayoutResource(R.layout.altho_card_accent_middle);
+            }
         }
     }
 
