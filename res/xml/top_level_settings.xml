@@ -169,15 +169,6 @@
         android:title="@string/altho_homepage_customization"
         settings:layout="@layout/altho_homepage_category"/>
 
-   <Preference
-        android:key="top_level_altho_settings"
-        android:title="@string/altho_settings_title"
-        android:summary="@string/altho_settings_summary"
-        android:icon="@drawable/ic_altho_settings_icon"
-        android:order="-70"
-        android:fragment="com.altho.settings.AlthoSettings" 
-        settings:layout="@layout/altho_card_accent_top"/>
-
     <com.android.settings.widget.RestrictedHomepagePreference
         android:icon="@drawable/ic_settings_wallpaper_white"
         android:key="top_level_wallpaper"
